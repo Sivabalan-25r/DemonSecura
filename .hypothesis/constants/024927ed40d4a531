@@ -1,0 +1,4 @@
+# file: C:\Users\Sivab\AppData\Roaming\Python\Python314\site-packages\keyring\util\platform_.py
+# hypothesis_version: 6.151.6
+
+['.', '.config', '.local/share', 'LOCALAPPDATA', 'ProgramData', 'Python Keyring', 'XDG_CONFIG_HOME', 'XDG_DATA_HOME', '_config_root_', '_data_root_', 'python_keyring']

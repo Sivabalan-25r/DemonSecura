@@ -1,0 +1,4 @@
+# file: Z:\Studies\Intern\23EO10\Project\USBPS-Project\Final\USBPS\services\usb_controller.py
+# hypothesis_version: 6.151.6
+
+['/d', '/f', '/t', '/v', '0x', '3', '4', 'REG_DWORD', 'Start', 'Unknown error', 'add', 'disable', 'enable', 'query', 'reg']

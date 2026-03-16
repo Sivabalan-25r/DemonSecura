@@ -1,0 +1,4 @@
+# file: Z:\Studies\Intern\23EO10\Project\USBPS-Project\Final\USBPS\core\logger.py
+# hypothesis_version: 6.151.6
+
+[10485760, '%H:%M:%S', '%d/%m/%Y', '%d/%m/%Y %H:%M:%S', 'ERROR', 'INFO', 'USBPS_FileLogger']

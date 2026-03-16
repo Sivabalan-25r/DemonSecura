@@ -1,0 +1,4 @@
+# file: Z:\Studies\Intern\23EO10\Project\USBPS-Project\Final\USBPS\core\credentials.py
+# hypothesis_version: 6.151.6
+
+['USBPS_Application', 'USBPS_EMAIL_ADDRESS', 'USBPS_EMAIL_PASSWORD', 'database_password', 'email_address', 'email_app_password', 'master_password']

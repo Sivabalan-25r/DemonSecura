@@ -1,0 +1,4 @@
+# file: Z:\Studies\Intern\23EO10\Project\USBPS-Project\Final\USBPS\core\config.py
+# hypothesis_version: 6.151.6
+
+['config.toml', 'log_rotation_size_mb', 'logging', 'max_failed_attempts', 'password_length', 'rb', 'recording', 'security', 'wb']
