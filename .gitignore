@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+.hypothesis/
+
+# Database files
+*.db
+*.sqlite
+
+# Log files
+*.log
+event_log.txt
+
+# Media
+*.avi
+*.mp4
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+users.db
+logs.db
+
+# Compiled executables (too large for GitHub)
+*.exe
+USBPS/dist/
+USBPS/build/
