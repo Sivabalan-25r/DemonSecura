@@ -1,0 +1,19 @@
+
+
+
+Instructions
+
+
+---------------------------------------- USB Physical Security ------------------------------------------
+
+
+>>> Enter a Email and, get your auto generate a password (it's a one-time use password).
+
+>>> Log details will be available as a .txt file in your application folder.
+
+>>> Intruder recorded video will be saved in the application folder.
+
+>>> Password for User Database - P@ssw0rd!!
+
+
+---------------------------------------------------------------------------------------------------------
